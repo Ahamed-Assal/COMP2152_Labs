@@ -1,0 +1,10 @@
+[2026-02-17 11:45:42] PING youtube.com
+PING youtube.com (192.178.192.93): 56 data bytes
+64 bytes from 192.178.192.93: icmp_seq=0 ttl=114 time=4.458 ms
+64 bytes from 192.178.192.93: icmp_seq=1 ttl=114 time=4.837 ms
+64 bytes from 192.178.192.93: icmp_seq=2 ttl=114 time=4.597 ms
+
+--- youtube.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.458/4.631/4.837/0.157 ms
+----------------------------------------
